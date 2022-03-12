@@ -1,0 +1,12 @@
+.colorsize{
+    height: 200px;
+    width: 200px;
+}
+
+.newdiv{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    flex-wrap: wrap;
+    gap:10px;
+}
